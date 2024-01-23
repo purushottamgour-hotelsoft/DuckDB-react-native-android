@@ -1,0 +1,1 @@
+/Users/purushottam.gour/Desktop/DuckDBExample/android/app/build/intermediates/cxx/Debug/4xs5n6f3/obj/x86_64

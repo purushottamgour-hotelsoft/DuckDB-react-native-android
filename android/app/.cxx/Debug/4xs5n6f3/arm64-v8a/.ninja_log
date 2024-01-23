@@ -1,0 +1,11 @@
+# ninja log v5
+3	1207	1705995840394504898	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3f92a95708eb9165
+1207	1332	1705995840517377937	/Users/purushottam.gour/Desktop/DuckDBExample/android/app/build/intermediates/cxx/Debug/4xs5n6f3/obj/arm64-v8a/libappmodules.so	cb4ca31e25cc5f34
+3	1047	1705995840233729524	CMakeFiles/appmodules.dir/Users/purushottam.gour/Desktop/DuckDBExample/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	db503e848a068c7f
+0	32	0	/Users/purushottam.gour/Desktop/DuckDBExample/android/app/.cxx/Debug/4xs5n6f3/arm64-v8a/CMakeFiles/cmake.verify_globs	b702b937f45f2c55
+61	196	1705996039292326833	build.ninja	fb2fdac2e803270b
+32	107	1705996039292326833	build.ninja	fb2fdac2e803270b
+0	8	0	/Users/purushottam.gour/Desktop/DuckDBExample/android/app/.cxx/Debug/4xs5n6f3/arm64-v8a/CMakeFiles/cmake.verify_globs	b702b937f45f2c55
+2	1035	1705996040329908542	CMakeFiles/appmodules.dir/Users/purushottam.gour/Desktop/DuckDBExample/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	db503e848a068c7f
+2	1172	1705996040475609194	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3f92a95708eb9165
+1172	1292	1705996040593182561	/Users/purushottam.gour/Desktop/DuckDBExample/android/app/build/intermediates/cxx/Debug/4xs5n6f3/obj/arm64-v8a/libappmodules.so	cb4ca31e25cc5f34
